@@ -33,5 +33,5 @@ spec:
   type: NodePort
   ports:
   - port: 3000
-  - protocol: TCP
+    protocol: TCP
     nodePort: 31110
